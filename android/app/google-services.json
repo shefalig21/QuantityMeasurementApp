@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016765586025",
+    "project_id": "react-nativeproject-38447",
+    "storage_bucket": "react-nativeproject-38447.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016765586025:android:47502a61bbf224554b20f8",
+        "android_client_info": {
+          "package_name": "com.quantitymeasurement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTWL8KCbPIE77aChVZGJHSgQxI6JmDqW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
